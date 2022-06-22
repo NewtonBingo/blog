@@ -1,0 +1,7 @@
+高效单线程缓存Redis
+持久化mysql
+高性能网关nginx
+序列化protobuf
+通信数据个数cjson
+日志方案log4cpp
+网络框架libevent
